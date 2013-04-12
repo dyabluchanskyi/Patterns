@@ -1,5 +1,7 @@
 package strategy;
 
+import strategy.api.CompressAlgorithm;
+
 import java.io.File;
 
 /**
